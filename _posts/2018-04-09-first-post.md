@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
+title: "Welcome to Steve0701's stock investment blog!"
+date: 2018-04-09 01:29:00 -0400
 categories: jekyll update
 ---
